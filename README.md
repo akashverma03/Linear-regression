@@ -1,2 +1,2 @@
 # Linear-regression- We got that RMSE is less and linear regression model has proved to be best fit for dataframe.
-http://localhost:8888/notebooks/Downloads/Linear%20Regression%20from%20Scratch%20for%20Single%20Attribute%20.ipynb
+Linear Regressoin is the most basic and popular algorithm of machine learning. It is supervised machine learning algorithm which is predicted output is real values/continuous. Or, Relationship between input/independent variables and single output/dependent variable.
